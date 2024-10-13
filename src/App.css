@@ -1,0 +1,31 @@
+
+.shadow-medium {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+body {
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.light-mode {
+  background-color: white;
+  color: black;
+ 
+} 
+
+.dark-mode {
+  background-color: black;
+  color: white;
+  
+}
+.light-container .continer-2 {
+
+  background-image: url(./assets/bg.png);
+  background-repeat: no-repeat; 
+  
+}
+
+.dark-container .continer-2 {
+  
+  background-image: url(./assets/Rectangle\ 547\ \(1\).png); 
+  background-repeat: no-repeat;
+}

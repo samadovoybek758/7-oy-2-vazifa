@@ -1,0 +1,53 @@
+{
+    "eng": {
+        "translation": {
+          "logo": "YOUR LOGO",
+          "Assets": "Assets",
+          "Creators": "Creators",
+          "Go Pro": "Go Pro",
+          "Log in": "Log in",
+          "hello": "A SECURITY SOLUTION",
+          "h2": "Keep track of your loved ones in real time!",
+          "h3": "We noticed the high level of insecurity in the world, and we thought of how technology could be used to combat these insecurities.",
+          "h4": "Join Our Waitlist!",
+          "h5": "Be the first to get notified when the product is ready!",
+          "h6": "Join List!",
+          "h7": "Your email address"
+
+        }
+
+      },
+      "rus": {
+        "translation": {
+          "logo": "ВАШ ЛОГОТИП",
+          "Assets": "Ресурсы",
+          "Creators": "Создатели",
+          "Go Pro": "Станьте профессионалом",
+          "Log in": "Авторизоваться",
+          "hello": "РЕШЕНИЕ БЕЗОПАСНОСТИ",
+          "h2": "Следите за своими близкими в режиме реального времени!",
+          "h3": "Мы заметили высокий уровень нестабильности в мире и подумали о том, как можно использовать технологии для борьбы с этой нестабильностью.",
+          "h4": "Присоединяйтесь к нашему списку ожидания!",
+          "h5": "Будьте первым, кто получит уведомление о готовности товара!",
+          "h6": "Присоединяйтесь к списку!",
+          "h7": "Your email address"
+
+        }
+      },
+      "uz": {
+        "translation": {
+          "logo": "Sizning logo",
+          "Assets": "Aktivlar",
+          "Creators": "Ijodkorlar",
+          "Go Pro": "Proga o'tish",
+          "Log in": "Tizimga kirish",
+          "hello": "Xavsizlik yechimi",
+          "h2": "Haqiqiy vaqtda yaqinlaringizni kuzatib boring!",
+          "h3": "Biz dunyoda yuqori darajadagi ishonchsizlikni payqadik va biz ushbu ishonchsizlikka qarshi kurashish uchun texnologiyadan qanday foydalanish mumkinligi haqida o'yladik.",
+          "h4": "Bizning kutish ro'yxatimizga qo'shiling!",
+          "h5": "Mahsulot tayyor bo'lganda birinchi bo'lib xabar oling!",
+          "h6": "Ro'yxatga qo'shilish!",
+          "h7": "Sizning e-pochta manzilingiz"
+        }
+      }
+}
